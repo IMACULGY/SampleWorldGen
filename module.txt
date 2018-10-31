@@ -1,9 +1,9 @@
 {
     "id" : "SampleWorldGen",
     "version" : "0.1.0-SNAPSHOT",
-    "author" : "",
+    "author" : "DAI / IMACULGY",
     "displayName" : "SampleWorldGen",
-    "description" : "",
-    "dependencies" : [],
+    "description" : "Sample World Generator for Terasology Task",
+    "dependencies" : [{"id" : "Core", "minVersion" : "2.0.0"}],
     "serverSideOnly" : false
 }
